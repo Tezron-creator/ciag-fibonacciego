@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586441132 source:g:\programowanie\ciag_fibonacciego\main.cpp
+	<iostream>
+
+1586519097 source:d:\programowanie\ciag_fibonacciego\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+	<windows.h>
+
